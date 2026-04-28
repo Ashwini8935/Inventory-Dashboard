@@ -1,7 +1,5 @@
 # Inventory-Dashboard
 Inventory Performance &amp; BOM Dashboard using Excel, Python and Power BI
-# Inventory Performance & BOM Dashboard
-
 ## Project Overview
 Built an inventory analytics dashboard for IIoT/electronics components to monitor stock levels, reorder risk, supplier contribution, and device readiness.
 
